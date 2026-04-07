@@ -33,4 +33,10 @@ int main(){
     cout << "Isikan data kelima : ";
     cin >> datamu[4];
 
-    
+    // menampilkan data dengan perintah satu persatu
+    cout << "Data pertama : " << datamu[0] << endl;
+    cout << "Data kedua : " << datamu[1] << endl;
+    cout << "Data ketiga : " << datamu[2] << endl;
+    cout << "Data keempat : " << datamu[3] << endl;
+    cout << "Data kelima : " << datamu[4] << endl;
+    cout<<endl;
