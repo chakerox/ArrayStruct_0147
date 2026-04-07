@@ -9,4 +9,7 @@ int main(){
     // deklarasi tanpa inisialisasi
     int datamu[5];
 
+     // cara akses (membaca atau mengambil isi array)
+    cout << "Isi data kedua : " << dataku[1] << endl;
+
   
